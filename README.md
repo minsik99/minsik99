@@ -13,5 +13,4 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsik99&langs_count=8)
 </div>
